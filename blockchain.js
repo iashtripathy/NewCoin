@@ -193,3 +193,4 @@ class Transaction {
 
 module.exports.Blockchain = Blockchain;
 module.exports.Transaction = Transaction;
+module.exports.Block = Block;
